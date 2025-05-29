@@ -56,7 +56,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _OcclusionStrength: 1
-    - _Smoothness: 0.625
+    - _Parallax: 0.005
+    - _Smoothness: 1
     m_Colors:
     - _BaseColor: {r: 0.30971876, g: 0.39344972, b: 0.4528302, a: 1}
     - _Color: {r: 0.30971873, g: 0.3934497, b: 0.45283014, a: 1}
