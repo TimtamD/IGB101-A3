@@ -26698,7 +26698,7 @@ GameObject:
   - component: {fileID: 364273725}
   - component: {fileID: 364273724}
   - component: {fileID: 364273723}
-  - component: {fileID: 364273722}
+  - component: {fileID: 364273727}
   m_Layer: 0
   m_Name: Level Switch
   m_TagString: Untagged
@@ -26706,19 +26706,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &364273722
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 364273721}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a94b5e27a5e4f4749a03f99793aa33a5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nextLevel: Assessment 3
 --- !u!65 &364273723
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26805,6 +26792,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &364273727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 364273721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7ad4870fcb0174d943ad0a4326f97b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nextLevel: Assessment 3
 --- !u!1 &368629867
 GameObject:
   m_ObjectHideFlags: 0

@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tamsyn Douglas/Scenes/IGB101 Assignment 1 Tamsyn Douglas.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Ethan Foo/Scenes/IGB101 Assignment 2 Ethan Foo.unity
+    guid: 084900c174e1297458128aaa74cf9a94
+  - enabled: 1
+    path: Assets/Nishant/Scenes/Assessment 3.unity
+    guid: 6636788a256383c40b4ad20b61c2a891
   m_configObjects: {}

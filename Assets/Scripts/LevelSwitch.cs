@@ -5,21 +5,19 @@ using UnityEngine.SceneManagement;
 public class LevelSwitch : MonoBehaviour
 {
     GameManager gameManager;
-    GameEthanManager gameEthanManager;
     public string nextLevel;
 
     // Start is called before the first frame update
     void Start()
     {
         gameManager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
-        gameEthanManager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameEthanManager>();
     }
 
     private void OnTriggerEnter(Collider otherObject){
 
         if (otherObject.transform.tag == "Player"){
             
-            if(gameManager.levelComplete || gameEthanManager.levelComplete){
+            if(gameManager.levelComplete){
                 SceneManager.LoadScene(nextLevel);
             }
         }
