@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Nishant/Scenes/Assessment 3.unity
     guid: 6636788a256383c40b4ad20b61c2a891
+  - enabled: 1
+    path: Assets/Isaac/IGB101 Assignment 1 Isaac Haworth.unity
+    guid: 7c2ea2096b13f764695e7ae512a83e04
   m_configObjects: {}
