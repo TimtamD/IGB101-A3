@@ -22,12 +22,35 @@ public class GameManager : MonoBehaviour
     private Animation[] doorAnimations;
     private Dictionary<Animation, bool> hasPlayedMap = new Dictionary<Animation, bool>();
 
+
+void Start()
+    {
+        GameObject[] doorObjects = GameObject.FindGameObjectsWithTag("Door");
+
+        List<Animation> animations = new List<Animation>();
+        foreach (GameObject door in doorObjects)
+        {
+            Animation anim = door.GetComponent<Animation>();
+            if (anim != null)
+            {
+                animations.Add(anim);
+                hasPlayedMap[anim] = false;
+            }
+            else
+            {
+                Debug.LogWarning("Door tagged object missing Animation component: " + door.name);
+            }
+        }
+
+        doorAnimations = animations.ToArray();
+    }
     // Update is called once per frame
     void Update()
     {
         LevelCompleteCheck();
         UpdateGUI();
         PlayAudioSamples();
+        AutomaticDoor();
     }
 
     private void LevelCompleteCheck()

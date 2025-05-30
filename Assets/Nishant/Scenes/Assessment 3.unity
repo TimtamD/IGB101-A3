@@ -5390,7 +5390,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 246202957}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &277327406
@@ -5832,7 +5832,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 403167817}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7ad4870fcb0174d943ad0a4326f97b, type: 3}
+  m_Script: {fileID: 11500000, guid: a94b5e27a5e4f4749a03f99793aa33a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   nextLevel: IGB101 Assignment 1 Isaac Haworth
@@ -5954,7 +5954,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 444836052}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &468300942
@@ -11293,7 +11293,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 722911880}
-  - component: {fileID: 722911879}
+  - component: {fileID: 722911881}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: GameManager
@@ -11301,39 +11301,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &722911879
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 722911878}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6bf8df0c065c9b240b9930b87fa67ea6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  currentPickups: 0
-  maxPickups: 5
-  levelComplete: 1
-  pickupText: {fileID: 2108721362}
-  audioSources:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  audioProximity: 5
-  door: {fileID: 0}
-  doorProximity: 10
 --- !u!4 &722911880
 Transform:
   m_ObjectHideFlags: 0
@@ -11349,6 +11316,27 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &722911881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722911878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5af5d732c34ff742946986f53f6e299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1477741316}
+  currentPickups: 0
+  maxPickups: 5
+  levelComplete: 0
+  pickupText: {fileID: 2108721362}
+  audioSources: []
+  audioProximity: 15
+  door: {fileID: 0}
+  doorProximity: 10
 --- !u!1 &753063749
 GameObject:
   m_ObjectHideFlags: 0
@@ -13740,7 +13728,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1101373774}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1190906864
@@ -21194,7 +21182,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1981104331}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4b85d6e14d519f84e98da5e0b9efe445, type: 3}
   m_Name: 
@@ -21562,7 +21550,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2039505080}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2042490516
@@ -22004,7 +21992,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2090343081}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2108721360

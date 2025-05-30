@@ -26244,8 +26244,8 @@ GameObject:
   - component: {fileID: 301327489}
   - component: {fileID: 301327488}
   - component: {fileID: 301327487}
-  - component: {fileID: 301327490}
   - component: {fileID: 301327486}
+  - component: {fileID: 301327490}
   m_Layer: 0
   m_Name: Coat of Arms
   m_TagString: Untagged
@@ -26351,7 +26351,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 301327485}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &331527400
@@ -26843,7 +26843,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 364273721}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7ad4870fcb0174d943ad0a4326f97b, type: 3}
+  m_Script: {fileID: 11500000, guid: a94b5e27a5e4f4749a03f99793aa33a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   nextLevel: Assessment 3
@@ -27720,8 +27720,8 @@ GameObject:
   - component: {fileID: 523160120}
   - component: {fileID: 523160119}
   - component: {fileID: 523160118}
-  - component: {fileID: 523160121}
   - component: {fileID: 523160117}
+  - component: {fileID: 523160121}
   m_Layer: 0
   m_Name: Wood Texture
   m_TagString: Untagged
@@ -27828,7 +27828,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 523160116}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &527907999
@@ -29722,7 +29722,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 811043943}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4b85d6e14d519f84e98da5e0b9efe445, type: 3}
   m_Name: 
@@ -36332,7 +36332,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 973055299}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &978711974
@@ -37225,8 +37225,8 @@ GameObject:
   - component: {fileID: 1079657087}
   - component: {fileID: 1079657086}
   - component: {fileID: 1079657085}
-  - component: {fileID: 1079657088}
   - component: {fileID: 1079657084}
+  - component: {fileID: 1079657088}
   m_Layer: 0
   m_Name: Steel pipe
   m_TagString: Untagged
@@ -37332,7 +37332,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1079657083}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1085992171
@@ -37874,8 +37874,8 @@ GameObject:
   - component: {fileID: 1130692790}
   - component: {fileID: 1130692789}
   - component: {fileID: 1130692788}
-  - component: {fileID: 1130692791}
   - component: {fileID: 1130692787}
+  - component: {fileID: 1130692791}
   m_Layer: 0
   m_Name: Skull Emoji
   m_TagString: Untagged
@@ -37981,7 +37981,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1130692785}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1134283624
@@ -42052,8 +42052,8 @@ GameObject:
   - component: {fileID: 1241994490}
   - component: {fileID: 1241994489}
   - component: {fileID: 1241994488}
-  - component: {fileID: 1241994491}
   - component: {fileID: 1241994487}
+  - component: {fileID: 1241994491}
   m_Layer: 0
   m_Name: Seamless Wood Texture Cube
   m_TagString: Untagged
@@ -42158,7 +42158,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1241994486}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1246769909
@@ -42308,7 +42308,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1309770743}
-  - component: {fileID: 1309770742}
+  - component: {fileID: 1309770744}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: GameManager
@@ -42316,39 +42316,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1309770742
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1309770741}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6bf8df0c065c9b240b9930b87fa67ea6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 666206364}
-  currentPickups: 0
-  maxPickups: 5
-  levelComplete: 0
-  pickupText: {fileID: 2013798290}
-  audioSources:
-  - {fileID: 1066196471}
-  - {fileID: 1849872822}
-  - {fileID: 1447208651}
-  - {fileID: 293941169}
-  - {fileID: 1138496549}
-  - {fileID: 1482096711}
-  - {fileID: 245173829}
-  - {fileID: 1199370739}
-  - {fileID: 2107406557}
-  - {fileID: 1568967497}
-  - {fileID: 1747520144}
-  - {fileID: 808401712}
-  audioProximity: 5
-  door: {fileID: 464287810947634625}
-  doorProximity: 10
 --- !u!4 &1309770743
 Transform:
   m_ObjectHideFlags: 0
@@ -42364,6 +42331,27 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1309770744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1309770741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5af5d732c34ff742946986f53f6e299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 666206364}
+  currentPickups: 0
+  maxPickups: 5
+  levelComplete: 0
+  pickupText: {fileID: 2013798290}
+  audioSources: []
+  audioProximity: 15
+  door: {fileID: 0}
+  doorProximity: 10
 --- !u!1001 &1310830873
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47027,7 +47015,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1781304111}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1834215071 stripped
@@ -47473,7 +47461,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 1, g: 0.63576454, b: 0.57924527, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -47532,13 +47520,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1896843771}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.33528563, y: 0.5517252, z: -0.25727367, w: 0.7190224}
-  m_LocalPosition: {x: -102.4, y: 36, z: 5.2}
+  m_LocalRotation: {x: 0.41508937, y: 0.60088664, z: -0.28341416, w: 0.6215405}
+  m_LocalPosition: {x: -67.93, y: 38.961, z: 3.435}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 50, y: 75, z: 0}
+  m_LocalEulerAnglesHint: {x: 58.936, y: 97.43, z: 16.498}
 --- !u!114 &1896843774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47764,8 +47752,8 @@ GameObject:
   - component: {fileID: 1914089151}
   - component: {fileID: 1914089150}
   - component: {fileID: 1914089149}
-  - component: {fileID: 1914089152}
   - component: {fileID: 1914089148}
+  - component: {fileID: 1914089152}
   m_Layer: 0
   m_Name: Maxwell Photoshopped
   m_TagString: Untagged
@@ -47871,7 +47859,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1914089147}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1918693618
@@ -48014,8 +48002,8 @@ GameObject:
   - component: {fileID: 1937509540}
   - component: {fileID: 1937509539}
   - component: {fileID: 1937509538}
-  - component: {fileID: 1937509541}
   - component: {fileID: 1937509537}
+  - component: {fileID: 1937509541}
   m_Layer: 0
   m_Name: Rock Texture Cube
   m_TagString: Untagged
@@ -48120,7 +48108,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1937509536}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1949683276
@@ -48491,8 +48479,8 @@ GameObject:
   - component: {fileID: 2002334361}
   - component: {fileID: 2002334360}
   - component: {fileID: 2002334359}
-  - component: {fileID: 2002334362}
   - component: {fileID: 2002334358}
+  - component: {fileID: 2002334362}
   m_Layer: 0
   m_Name: Maxwell Uncut
   m_TagString: Untagged
@@ -48598,7 +48586,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2002334357}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &2003466848 stripped
@@ -48841,8 +48829,8 @@ GameObject:
   - component: {fileID: 2029324945}
   - component: {fileID: 2029324944}
   - component: {fileID: 2029324943}
-  - component: {fileID: 2029324946}
   - component: {fileID: 2029324942}
+  - component: {fileID: 2029324946}
   m_Layer: 0
   m_Name: Rock Texture
   m_TagString: Untagged
@@ -48949,7 +48937,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2029324941}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 124e39b0e32f846418875b4400ae477d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9d75b34cf7d422488cf3573fc7de2d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!43 &2030442725
